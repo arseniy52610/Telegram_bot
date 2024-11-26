@@ -1,0 +1,130 @@
+2024-11-23 21:29:49,376 - INFO - Bot started
+2024-11-23 21:58:41,275 - INFO - Bot stopped
+2024-11-23 21:58:45,298 - INFO - Bot started
+2024-11-23 21:59:54,722 - INFO - Bot stopped
+2024-11-23 21:59:59,332 - INFO - Bot started
+2024-11-23 22:00:05,593 - INFO - Bot stopped
+2024-11-23 22:02:56,713 - INFO - Bot started
+2024-11-23 22:17:29,016 - INFO - Bot stopped
+2024-11-24 16:13:51,453 - INFO - Bot started
+2024-11-24 16:14:26,005 - INFO - Bot stopped
+2024-11-24 16:14:30,256 - INFO - Bot started
+2024-11-24 16:15:26,540 - INFO - Bot stopped
+2024-11-24 16:15:29,590 - INFO - Bot started
+2024-11-24 16:15:36,338 - ERROR - ErrorEvent | exception=AttributeError("'CallbackQuery' object has no attribute 'delete'")
+2024-11-24 16:15:41,153 - ERROR - ErrorEvent | exception=AttributeError("'CallbackQuery' object has no attribute 'delete'")
+2024-11-24 16:16:16,612 - INFO - Bot stopped
+2024-11-24 16:16:20,345 - INFO - Bot started
+2024-11-24 16:18:04,067 - INFO - Bot stopped
+2024-11-24 16:18:07,043 - INFO - Bot started
+2024-11-24 19:37:16,567 - INFO - Bot started
+2024-11-24 19:58:39,620 - INFO - Bot stopped
+2024-11-24 19:58:42,681 - INFO - Bot started
+2024-11-24 19:59:50,133 - INFO - Bot stopped
+2024-11-24 20:01:17,815 - INFO - Bot started
+2024-11-24 20:01:23,476 - ERROR - ErrorEvent | exception=TypeError("Message.answer() missing 1 required positional argument: 'text'")
+2024-11-24 20:02:04,221 - INFO - Bot stopped
+2024-11-24 20:02:06,934 - INFO - Bot started
+2024-11-24 20:02:11,821 - ERROR - ErrorEvent | exception=TypeError("Message.answer() missing 1 required positional argument: 'text'")
+2024-11-24 20:04:18,326 - INFO - Bot stopped
+2024-11-24 20:04:22,757 - INFO - Bot started
+2024-11-24 20:07:01,050 - INFO - Bot stopped
+2024-11-24 20:07:03,931 - INFO - Bot started
+2024-11-24 20:13:33,795 - INFO - Bot stopped
+2024-11-24 20:13:36,455 - INFO - Bot started
+2024-11-24 20:13:41,881 - ERROR - ErrorEvent | exception=1 validation error for InlineKeyboardMarkup
+inline_keyboard
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-11-24 20:14:35,576 - INFO - Bot stopped
+2024-11-24 20:14:39,176 - INFO - Bot started
+2024-11-24 20:16:40,444 - INFO - Bot stopped
+2024-11-24 20:21:45,709 - INFO - Bot started
+2024-11-24 20:23:19,604 - INFO - Bot stopped
+2024-11-24 20:23:22,760 - INFO - Bot started
+2024-11-24 20:23:30,666 - ERROR - ErrorEvent | exception=AttributeError("'CallbackQuery' object has no attribute 'delete'")
+2024-11-24 20:23:49,410 - INFO - Bot stopped
+2024-11-24 20:23:53,883 - INFO - Bot started
+2024-11-24 20:24:53,150 - INFO - Bot stopped
+2024-11-24 20:24:55,605 - INFO - Bot started
+2024-11-24 20:24:58,827 - ERROR - ErrorEvent | exception=TypeError('list indices must be integers or slices, not InlineKeyboardButton')
+2024-11-24 20:25:35,791 - INFO - Bot stopped
+2024-11-24 20:25:38,401 - INFO - Bot started
+2024-11-24 20:25:42,426 - ERROR - ErrorEvent | exception=TypeError('list indices must be integers or slices, not InlineKeyboardButton')
+2024-11-24 20:26:01,628 - INFO - Bot stopped
+2024-11-24 20:26:04,199 - INFO - Bot started
+2024-11-24 20:28:22,456 - INFO - Bot stopped
+2024-11-24 20:28:24,878 - INFO - Bot started
+2024-11-24 20:29:37,858 - INFO - Bot stopped
+2024-11-24 20:29:40,318 - INFO - Bot started
+2024-11-24 20:32:44,596 - INFO - Bot stopped
+2024-11-24 20:32:48,039 - INFO - Bot started
+2024-11-24 20:32:57,744 - ERROR - ErrorEvent | exception=TelegramBadRequest('Telegram server says - Bad Request: message can't be edited')
+2024-11-24 20:33:25,688 - INFO - Bot stopped
+2024-11-24 20:33:28,226 - INFO - Bot started
+2024-11-24 20:34:25,081 - INFO - Bot stopped
+2024-11-24 20:34:27,731 - INFO - Bot started
+2024-11-24 20:37:17,185 - INFO - Bot stopped
+2024-11-24 20:38:52,318 - INFO - Bot started
+2024-11-24 20:39:19,432 - ERROR - ErrorEvent | exception=TypeError("profile() missing 1 required positional argument: 'callback'")
+2024-11-24 20:39:22,140 - ERROR - ErrorEvent | exception=TypeError("profile() missing 1 required positional argument: 'callback'")
+2024-11-24 20:40:00,839 - INFO - Bot stopped
+2024-11-24 20:40:03,133 - INFO - Bot started
+2024-11-24 20:40:09,764 - ERROR - ErrorEvent | exception=TypeError("profile() missing 1 required positional argument: 'callback'")
+2024-11-24 20:40:49,718 - INFO - Bot stopped
+2024-11-24 20:40:56,527 - INFO - Bot started
+2024-11-24 20:41:03,892 - ERROR - ErrorEvent | exception=TypeError("profile() missing 1 required positional argument: 'callback'")
+2024-11-24 20:41:22,064 - INFO - Bot stopped
+2024-11-24 20:41:24,474 - INFO - Bot started
+2024-11-24 20:41:31,284 - ERROR - ErrorEvent | exception=TypeError("profile() missing 1 required positional argument: 'callback'")
+2024-11-24 20:43:26,822 - INFO - Bot stopped
+2024-11-24 20:43:29,753 - INFO - Bot started
+2024-11-24 20:46:24,487 - INFO - Bot stopped
+2024-11-24 20:46:27,417 - INFO - Bot started
+2024-11-24 20:46:32,991 - ERROR - ErrorEvent | exception=TypeError("object method can't be used in 'await' expression")
+2024-11-24 20:47:34,327 - INFO - Bot stopped
+2024-11-24 20:47:36,948 - INFO - Bot started
+2024-11-24 20:47:42,575 - ERROR - ErrorEvent | exception=TypeError("object method can't be used in 'await' expression")
+2024-11-24 20:49:50,956 - INFO - Bot stopped
+2024-11-24 20:49:53,346 - INFO - Bot started
+2024-11-24 20:52:08,562 - INFO - Bot stopped
+2024-11-24 20:52:49,123 - INFO - Bot started
+2024-11-24 20:52:58,473 - ERROR - ErrorEvent | exception=1 validation error for EditMessageReplyMarkup
+inline_message_id
+  Input should be a valid string [type=string_type, input_value=InlineKeyboardMarkup(inli..._game=None, pay=None)]]), input_type=InlineKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-11-24 20:55:00,731 - INFO - Bot stopped
+2024-11-24 20:55:03,744 - INFO - Bot started
+2024-11-24 20:55:09,251 - ERROR - ErrorEvent | exception=TypeError("object function can't be used in 'await' expression")
+2024-11-24 20:55:37,754 - INFO - Bot stopped
+2024-11-24 20:55:40,389 - INFO - Bot started
+2024-11-24 21:04:38,543 - INFO - Bot stopped
+2024-11-24 21:04:41,445 - INFO - Bot started
+2024-11-24 21:06:23,968 - INFO - Bot stopped
+2024-11-24 21:06:27,184 - INFO - Bot started
+2024-11-24 21:06:33,815 - ERROR - ErrorEvent | exception=TypeError("top() missing 1 required positional argument: 'callback'")
+2024-11-24 21:08:26,099 - INFO - Bot stopped
+2024-11-24 21:08:28,725 - INFO - Bot started
+2024-11-24 21:08:33,848 - ERROR - ErrorEvent | exception=TypeError("top() missing 1 required positional argument: 'callback'")
+2024-11-24 21:09:57,042 - INFO - Bot stopped
+2024-11-24 21:09:59,675 - INFO - Bot started
+2024-11-24 21:12:33,491 - INFO - Bot stopped
+2024-11-24 21:12:36,103 - INFO - Bot started
+2024-11-24 21:15:13,250 - INFO - Bot stopped
+2024-11-24 21:16:08,889 - INFO - Bot started
+2024-11-24 21:17:16,195 - INFO - Bot stopped
+2024-11-24 21:17:34,791 - INFO - Bot started
+2024-11-24 21:40:05,614 - INFO - Bot stopped
+2024-11-24 21:40:08,688 - INFO - Bot started
+2024-11-24 21:41:24,040 - INFO - Bot stopped
+2024-11-24 21:41:27,409 - INFO - Bot started
+2024-11-24 21:41:33,530 - INFO - Bot stopped
+2024-11-24 21:42:24,615 - INFO - Bot started
+2024-11-24 21:43:20,521 - INFO - Bot stopped
+2024-11-24 21:43:23,084 - INFO - Bot started
+2024-11-24 21:44:16,555 - INFO - Bot stopped
+2024-11-24 21:44:19,587 - INFO - Bot started
+2024-11-24 21:45:16,461 - INFO - Bot stopped
+2024-11-24 21:45:19,051 - INFO - Bot started
+2024-11-24 21:58:49,213 - INFO - Bot stopped
+2024-11-25 14:23:02,647 - INFO - Bot started
